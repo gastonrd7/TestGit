@@ -1,1 +1,1 @@
-console.log('hola mundo por Gaston Modificado 22');
+console.log('hola mundo por Gaston Modificado');
