@@ -1,1 +1,1 @@
-//Comienzo con EcmaEscript
+//Comienzo con EcmaEscript 6
