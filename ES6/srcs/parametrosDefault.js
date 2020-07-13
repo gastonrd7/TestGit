@@ -1,4 +1,4 @@
-//Como era antes en javascript, habia que validar si un parametro no se lo pasaba
+git //Como era antes en javascript, habia que validar si un parametro no se lo pasaba
 function registrarUsuario(nombre, pais, email, telefono) {
     if (!telefono) {
         telefono = 'El usuario no ingreso telefono';
