@@ -22,4 +22,4 @@ function registroUsuario(nombre, pais, email) {
 } //Si el usuario no ingresa telefono por defaulf en este caso va a tener de valor = 'No especificado'
 
 
-console.log(registroUsuario('Martin', 'Argentina', 'ruizdiazmartin@gmail.com'));
+console.log(registroUsuario('Martin', 'Argentina', 'ruizdiazmartin@gmail.com')); //Nueva compilacion
