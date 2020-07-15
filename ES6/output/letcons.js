@@ -41,4 +41,4 @@ var colores = ['rojo', 'verde']; //Esto seria un error porque estaria usando con
 //El metodo push me permite agregar un valor despues de la ultima posicion del array, en este caso azul se agrega despues de verde.
 
 colores.push('Azul');
-console.log('Mis colores son: ' + colores); //Martingit
+console.log('Mis colores son: ' + colores);
