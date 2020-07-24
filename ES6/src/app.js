@@ -1,4 +1,7 @@
-import { mensajeAlerta, saludo } from './modulos/mensajeAlerta';
+import {
+    mensajeAlerta,
+    saludo
+} from './modulos/mensajeAlerta';
 import Persona from './modulos/clasePersona';
 
 mensajeAlerta('Hola Martincho');
