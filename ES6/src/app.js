@@ -4,7 +4,7 @@ import {
 } from './modulos/mensajeAlerta';
 import Persona from './modulos/clasePersona';
 
-mensajeAlerta('Hola Martincho');
+mensajeAlerta('Hola Martin');
 saludo();
 
 const usuario = new Persona('Martin', 40);
