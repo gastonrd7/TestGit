@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _modulos_mensajeAlerta__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modulos/mensajeAlerta */ \"./src/modulos/mensajeAlerta.js\");\n/* harmony import */ var _modulos_clasePersona__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modulos/clasePersona */ \"./src/modulos/clasePersona.js\");\n\n\nObject(_modulos_mensajeAlerta__WEBPACK_IMPORTED_MODULE_0__[\"mensajeAlerta\"])('Hola Martin');\nObject(_modulos_mensajeAlerta__WEBPACK_IMPORTED_MODULE_0__[\"saludo\"])();\nvar usuario = new _modulos_clasePersona__WEBPACK_IMPORTED_MODULE_1__[\"default\"]('Martin', 40);\nusuario.mostrarInfo();\n\n//# sourceURL=webpack:///./src/app.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _modulos_mensajeAlerta__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modulos/mensajeAlerta */ \"./src/modulos/mensajeAlerta.js\");\n/* harmony import */ var _modulos_clasePersona__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modulos/clasePersona */ \"./src/modulos/clasePersona.js\");\n\n\nObject(_modulos_mensajeAlerta__WEBPACK_IMPORTED_MODULE_0__[\"mensajeAlerta\"])('Hola Martin, como estas');\nObject(_modulos_mensajeAlerta__WEBPACK_IMPORTED_MODULE_0__[\"saludo\"])();\nvar usuario = new _modulos_clasePersona__WEBPACK_IMPORTED_MODULE_1__[\"default\"]('Martin', 40);\nusuario.mostrarInfo();\n\n//# sourceURL=webpack:///./src/app.js?");
 
 /***/ }),
 
